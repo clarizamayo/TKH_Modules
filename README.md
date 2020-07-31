@@ -15,7 +15,7 @@ After reading an online article and evaluating the content, seven important ques
 
 ## Modul 3: HTML
 ### Objective
-``` Upcoming ```
+```Learn the fundamentals of HTML and begin building the foundations of your digital portfolio ```
 
 ## Modul 4: CSS
 ### Objective
