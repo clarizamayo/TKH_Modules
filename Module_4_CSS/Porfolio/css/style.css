@@ -76,7 +76,7 @@ a:hover{
 
 .social-media li{
     font-size: .75em;
-    display: inline;
+    display: block;
 }
 .social-media ul{
     padding: 0.3rem;
@@ -153,12 +153,13 @@ a:hover{
     margin: 0 auto;
 }
 
-Input{
+input{
     min-width: 30vw;
     margin-bottom: 15px;
     margin-top: 5px;
     padding: 0.5 rem;
 }
+
 input[type="submit"]{
     background-color: var(--third-color);
     color: white;
