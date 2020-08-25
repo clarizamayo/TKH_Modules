@@ -1,4 +1,4 @@
-https://repl.it/@clarizamayo/animaljs#index.js
+//https://repl.it/@clarizamayo/animaljs#index.js
 
 let animal = {
     legs: "4",
