@@ -1,4 +1,4 @@
-https://repl.it/@clarizamayo/TKH-Module-5-Challenge-1#index.js
+//https://repl.it/@clarizamayo/TKH-Module-5-Challenge-1#index.js
 
 let weeklyIncome = parseInt(prompt("What is your weekly income?"));
 let foodCost = parseInt(prompt("What is your weekly food cost?"));
